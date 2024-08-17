@@ -1,0 +1,13 @@
+{
+    "name": "megachriz/drupalbook",
+    "type": "metapackage",
+    "require": {
+        "drupal/core": "^10.0"
+    },
+    "authors": [
+        {
+            "name": "MegaChriz",
+            "email": "megachriz@hotmail.com"
+        }
+    ]
+}
